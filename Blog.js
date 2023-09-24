@@ -46,6 +46,7 @@ const Blog=() => {
                 </ul>
             </p>
         </div>
+                <button className="end-button">Let's invest</button>
         </div>
     );
 }
